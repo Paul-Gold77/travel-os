@@ -1,0 +1,20 @@
+{
+  "name": "Travel OS",
+  "short_name": "Travel OS",
+  "description": "个人旅行管理：行程、记账、地图、清单、离线资料",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f2f4f8",
+  "theme_color": "#0f172a",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'%3E%3Crect width='180' height='180' rx='40' fill='%230f172a'/%3E%3Ctext x='50%25' y='58%25' font-size='100' text-anchor='middle' fill='%2338bdf8' font-family='system-ui'%3ET%3C/text%3E%3C/svg%3E",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
